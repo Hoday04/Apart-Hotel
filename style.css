@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: MintCream;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+header {
+    background-color: rgb(98, 72, 49);
+    color: #fff;
+    padding: 40px;
+    width: 100%;
+    float: right;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(98, 72, 49);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    float: right;
+    bottom: 0;
+}
+
+h2 {
+    font-size: 25px;
+}
+  
+h1 {
+    margin: 0;
+}
+
+li {
+    font-size: 17px;
+}
+
+p {
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+    color: #bc5d29;
+}
+  
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+nav ul li {
+    display: inline;
+}
+  
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+  
+section {
+    padding: 30px;
+}
+  
+section h2 {
+    margin-top: 0;
+}
+
+.centerBlock {
+    width: 70%;
+    text-align: left;
+    float: left;
+}
+
+.rightBlock {
+    width: 30%;
+    text-align: left;
+    float: right;
+}
+
+.nomer {
+    width: 100%;
+    border: 3px solid black;
+    margin-top: 5%;
+}
+
+.name {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 75%;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.map {
+    padding: 50px;
+}
